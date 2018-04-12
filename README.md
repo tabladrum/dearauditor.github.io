@@ -2,7 +2,7 @@
 
 ![Dear Auditor logo](https://dearauditor.github.io/images/dear-auditor-logo.png)
 
-Please see dearauditor.github.io
+Please see https://dearauditor.github.io
 
 # From the Team
 Created by Ben Grinnell, James Wickett, Jennifer Brady, Rob Stroud, Sam Guckenheimer, Scott Nasello, Tapabrata Pal
